@@ -1,0 +1,91 @@
+body {
+    background-image:url(yritys_tausta.png);
+    background-repeat:no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: bauhaus;
+    src: url(BAUHS93.TTF);
+}
+
+h1 {
+    color:#9fe13f;
+    font-family: bauhaus;
+}
+
+h2 {
+    color:#73a32c;
+
+}
+
+.flex_container_ylapalkki {
+    display:flex;
+    flex-direction: row;
+    background-color:#3e434a;
+    font-size: 170%;
+    gap:5%;
+}
+
+.card_ylapalkki, .card_ylapalkki_logo {
+    align-self:center;
+}
+.card_ylapalkki:hover, .card_ylapalkki_logo:hover {
+    color:#101221;
+}
+
+.card_ylapalkki_logo {
+    background-color:#3e434a;
+    padding-right:7%;
+    padding-left:7%;
+    margin-right:45%;
+    color:aliceblue;
+}
+
+.flex_container_jono {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.flex_container_rivi {
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+
+.flex_container_rivi_vasen {
+    display:flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: left;
+}
+
+.card {
+    gap: 5%
+}
+
+.card_tausta {
+    margin:15px;
+    padding: 35px;
+    background-color: #3e434a;
+}
+
+[href], .flex_container_ylapalkki {
+    color:white;
+    text-decoration-line: none;
+}
+
+[href]:hover {
+    color: #9fe13f;
+}
+
+.taulu {
+    width:900px
+}
+
