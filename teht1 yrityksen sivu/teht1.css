@@ -1,0 +1,29 @@
+.flex_container {
+    display:flex;
+    flex-direction: row;
+    background-color:darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    gap:5%;
+}
+
+.card, .card_logo {
+    align-self:center;
+}
+
+.card_logo {
+    background-color:#3e434a;
+    padding-right:7%;
+    padding-left:7%;
+    margin-right:45%;
+    color:aliceblue;
+}
+
+[href], .flex_container {
+    color:black;
+    text-decoration-line: none;
+}
+
+[href]:hover {
+    color: #9fe13f;
+}
