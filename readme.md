@@ -4,7 +4,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](ei saatavilla PHP-kriisin takia)
+[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod01_mod02/)
 
 Tehdyt tehtävät:
 
