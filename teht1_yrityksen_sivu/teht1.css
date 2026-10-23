@@ -18,8 +18,12 @@ h1 {
 }
 
 h2 {
-    color:#73a32c;
+    color: #b2db76;
 
+}
+
+h*, p {
+    background-color: #101221;
 }
 
 .flex_container_ylapalkki {
