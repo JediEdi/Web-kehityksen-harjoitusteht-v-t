@@ -1,4 +1,5 @@
 body {
+    background-color: #101221;
     background-image:url(yritys_tausta.png);
     background-repeat:no-repeat;
     background-position: 50% 50%;
@@ -20,10 +21,6 @@ h1 {
 h2 {
     color: #b2db76;
 
-}
-
-h1, h2, h3, h4, h5, h6, p {
-    background-color: #101221;
 }
 
 .flex_container_ylapalkki {
