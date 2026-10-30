@@ -15,4 +15,17 @@ Tehdyt tehtävät:
 
 **Yhteensä 13 p**
 
+### JS-moduuli 3
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod03/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 8: 2 p
+- Tehtävä 9: 3 p
+
+**Yhteensä 11 p**
+
 ---
