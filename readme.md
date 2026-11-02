@@ -4,7 +4,7 @@
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod01_mod02/)
+[Linkki JS-moduulin 1 ja 2 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod01_mod02/)
 
 Tehdyt tehtävät:
 
@@ -16,6 +16,7 @@ Tehdyt tehtävät:
 **Yhteensä 13 p**
 
 ### JS-moduuli 3
+
 [Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod03/)
 
 Tehdyt tehtävät:
@@ -27,5 +28,18 @@ Tehdyt tehtävät:
 - Tehtävä 9: 3 p
 
 **Yhteensä 11 p**
+
+### JS-moduuli 4
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/mod04/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 11 tai 8: 4 p
+
+**Yhteensä 10 p**
 
 ---
