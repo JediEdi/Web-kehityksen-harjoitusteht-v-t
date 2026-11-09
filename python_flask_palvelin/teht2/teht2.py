@@ -43,6 +43,7 @@ def add_word(word_english, word_finnish):
     dictionary.update(new_word)
     with open("python_flask_palvelin/teht2/static/dictionary.json", "w", encoding="UTF-8") as dictionary_data:
         json.dump(dictionary, dictionary_data)
+    return dictionary
 
 
 @app.errorhandler(404)

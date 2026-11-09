@@ -1,9 +1,1 @@
-{
-    "hello":"hei",
-    "computer":"tietokone",
-    "job":"työ",
-    "program":"ohjelma",
-    "yes":"kyllä",
-    "no":"ei",
-    "aura cheese rullakebab with a double meat portion and a serving of hot sauce":"aurajuustorullakebab tuplalihalla ja tulinen kastike"
-}
+{"hello": "hei", "computer": "tietokone", "job": "ty\u00f6", "program": "ohjelma", "yes": "kyll\u00e4", "no": "ei", "aura cheese rullakebab with a double meat portion and a serving of hot sauce": "aurajuustorullakebab tuplalihalla ja tulinen kastike", "what": "mit\u00e4", "that": "sit\u00e4", "me": "min\u00e4"}

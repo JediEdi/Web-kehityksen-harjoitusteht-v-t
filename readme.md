@@ -38,8 +38,18 @@ Tehdyt tehtävät:
 - Tehtävä 1: 2 p
 - Tehtävä 2: 2 p
 - Tehtävä 3: 2 p
-- Tehtävä 11 tai 8: 4 p
+- Tehtävä 11 (tehtävälista) tai 8 (kansio): 4 p
 
 **Yhteensä 10 p**
 
+### Python Flask -palvelin
+
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~edip/python_flask_palvelin/)
+
+Tehdyt tehtävät:
+
+- Tehtävä 2: 10 p
+- Tehtävä 1 (tehtävälista) tai 3 (järjestyksessä): 6 p
+
+**Yhteensä 16 p**
 ---
