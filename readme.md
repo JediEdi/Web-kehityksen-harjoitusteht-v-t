@@ -52,4 +52,5 @@ Tehdyt tehtävät:
 - Tehtävä 1 (tehtävälista) tai 3 (järjestyksessä): 6 p
 
 **Yhteensä 16 p**
+
 ---

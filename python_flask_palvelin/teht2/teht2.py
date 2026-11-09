@@ -3,7 +3,7 @@ import json
 app = Flask(__name__)
 
 
-@app.route("/translate/<word_english>")
+@app.route("/translate/<word_english>") # käännä sana
 def translate(word_english):
     try:
         word_english = str.lower(word_english)
@@ -34,9 +34,8 @@ def word_list():
             word_dictionary_english[word_index] = word_english
         return word_dictionary_english
 
-
-@app.route("/add/<word_english>/<word_finnish>")
-def add_word(word_english, word_finnish):
+@app.route("/add/<word_english>/<word_finnish>") # lisää sana ja käännös
+def add_word(word_english, word_finnish): # error-handlausta ei tarvita. errorhandler(404) hoitaa
     new_word = {word_english : word_finnish}
     with open("python_flask_palvelin/teht2/static/dictionary.json", "r", encoding="UTF-8") as dictionary_data:
         dictionary = json.load(dictionary_data)
