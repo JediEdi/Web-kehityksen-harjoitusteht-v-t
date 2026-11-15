@@ -22,6 +22,10 @@ async function fetch_tvmaze(evt) {
 async function load_tvmaze(evt) {
     const data = await fetch_tvmaze(evt);
     const results = document.querySelector("#results");
+
+    results.innerHTML = 
+        `<h1>Tietoa sarjoista</h1>`; // tyhjennetään vanhat sarjat
+
     console.log(data);
     for (let show of data) {
         
